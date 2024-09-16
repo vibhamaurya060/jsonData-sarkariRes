@@ -1,0 +1,383 @@
+{
+  "jobPosts": [
+    {
+      "id": 1,
+      "title": "SSC CGL Recruitment 2024",
+      "postName": "Combined Graduate Level (CGL) Posts",
+      "department": "Staff Selection Commission",
+      "shortInformation": "SSC CGL 2024 for Group B and Group C positions in various government departments.",
+      "totalPost": 5000,
+      "eligibility": "Bachelor’s Degree from a recognized university",
+      "location": "All India",
+      "vacancies": 5000,
+      "ageLimit": "18-32 years",
+      "applicationStartDate": "2024-01-15",
+      "applicationEndDate": "2024-02-15",
+      "examDate": "2024-04-10",
+      "applicationFee": {
+        "general": 100,
+        "sc_st": 0,
+        "female": 0,
+        "pwd": 0
+      },
+      "officialNotification": "https://ssc.nic.in/official-notification.pdf",
+      "applyLink": "https://ssc.nic.in/apply-now",
+      "jobDetails": "Combined Graduate Level Exam for various Group B and C posts in various Ministries/Departments.",
+      "howToFillOnlineForm": [
+        "Visit the official SSC website.",
+        "Click on the 'Apply Now' link for the CGL recruitment.",
+        "Register as a new user by providing your basic details.",
+        "Fill in your personal and educational information accurately.",
+        "Upload the required documents such as photograph, signature, etc.",
+        "Review the details you entered before submitting the form.",
+        "Submit the application fee using available payment options.",
+        "Download and print the application form for future reference."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "UPSC Civil Services Examination 2024",
+      "postName": "Civil Services Officer",
+      "department": "Union Public Service Commission",
+      "shortInformation": "UPSC Civil Services Exam 2024 for IAS, IPS, IFS, and other posts.",
+      "totalPost": 1000,
+      "eligibility": "Bachelor’s Degree from a recognized university",
+      "location": "All India",
+      "vacancies": 1000,
+      "ageLimit": "21-32 years",
+      "applicationStartDate": "2024-02-01",
+      "applicationEndDate": "2024-03-01",
+      "examDate": "2024-06-15",
+      "applicationFee": {
+        "general": 100,
+        "sc_st": 0,
+        "female": 0,
+        "pwd": 0
+      },
+      "officialNotification": "https://upsc.gov.in/official-notification.pdf",
+      "applyLink": "https://upsc.gov.in/apply-now",
+      "jobDetails": "Civil Services Examination for recruitment to various Civil Services of the Government of India.",
+      "howToFillOnlineForm": [
+        "Visit the UPSC official website.",
+        "Navigate to the 'Online Application' section.",
+        "Complete the Part I registration by providing basic information.",
+        "Fill out the Part II application form with detailed information.",
+        "Upload the required documents, such as a photograph, signature, etc.",
+        "Pay the application fee through the provided payment gateway.",
+        "Submit the application form and download the confirmation for reference."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Indian Railways RRB NTPC Recruitment 2024",
+      "postName": "Non-Technical Popular Categories (NTPC)",
+      "department": "Railway Recruitment Board",
+      "shortInformation": "RRB NTPC 2024 for various non-technical posts in Indian Railways.",
+      "totalPost": 15000,
+      "eligibility": "10+2 or Bachelor’s Degree",
+      "location": "All India",
+      "vacancies": 15000,
+      "ageLimit": "18-30 years",
+      "applicationStartDate": "2024-03-10",
+      "applicationEndDate": "2024-04-10",
+      "examDate": "2024-07-20",
+      "applicationFee": {
+        "general": 500,
+        "sc_st": 250,
+        "female": 250,
+        "pwd": 250
+      },
+      "officialNotification": "https://indianrailways.gov.in/rrb-ntpc-2024.pdf",
+      "applyLink": "https://indianrailways.gov.in/apply-now",
+      "jobDetails": "Non-Technical Popular Categories (NTPC) recruitment for various posts in Indian Railways.",
+      "howToFillOnlineForm": [
+        "Go to the official RRB website and select your region.",
+        "Click on the 'NTPC Recruitment 2024' link.",
+        "Register yourself using a valid email ID and mobile number.",
+        "Fill in the application form with accurate details.",
+        "Upload the necessary documents, such as a photograph and signature.",
+        "Make the payment using the available options.",
+        "Submit the form and save a copy for future reference."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "State Bank of India PO Recruitment 2024",
+      "postName": "Probationary Officer (PO)",
+      "department": "State Bank of India",
+      "shortInformation": "SBI PO 2024 for recruitment of Probationary Officers in SBI branches across India.",
+      "totalPost": 2000,
+      "eligibility": "Bachelor’s Degree in any discipline",
+      "location": "All India",
+      "vacancies": 2000,
+      "ageLimit": "21-30 years",
+      "applicationStartDate": "2024-04-01",
+      "applicationEndDate": "2024-04-30",
+      "examDate": "2024-08-05",
+      "applicationFee": {
+        "general": 750,
+        "sc_st": 125,
+        "female": 125,
+        "pwd": 125
+      },
+      "officialNotification": "https://sbi.co.in/po-notification.pdf",
+      "applyLink": "https://sbi.co.in/apply-now",
+      "jobDetails": "Probationary Officer recruitment in State Bank of India across various branches in India.",
+      "howToFillOnlineForm": [
+        "Visit the SBI careers website.",
+        "Click on the 'SBI PO Recruitment 2024' link.",
+        "Register as a new user and obtain login credentials.",
+        "Log in and fill in the application form with accurate information.",
+        "Upload the required documents, including photograph and signature.",
+        "Pay the application fee through online banking or debit/credit card.",
+        "Submit the form and print the application confirmation for future use."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "IBPS Clerk Recruitment 2024",
+      "postName": "Clerk",
+      "department": "Institute of Banking Personnel Selection",
+      "shortInformation": "IBPS Clerk Recruitment 2024 for various public sector banks across India.",
+      "totalPost": 4000,
+      "eligibility": "Graduation in any discipline from a recognized university",
+      "location": "All India",
+      "vacancies": 4000,
+      "ageLimit": "20-28 years",
+      "applicationStartDate": "2024-05-01",
+      "applicationEndDate": "2024-05-30",
+      "examDate": "2024-09-15",
+      "applicationFee": {
+        "general": 600,
+        "sc_st": 100,
+        "female": 100,
+        "pwd": 100
+      },
+      "officialNotification": "https://ibps.in/clerk-notification.pdf",
+      "applyLink": "https://ibps.in/apply-now",
+      "jobDetails": "Clerk recruitment in various public sector banks across India.",
+      "howToFillOnlineForm": [
+        "Go to the IBPS official website.",
+        "Click on the 'CRP Clerks' link and then select the 'Apply Online' option.",
+        "Register yourself with a valid email ID and mobile number.",
+        "Log in to fill out the detailed application form.",
+        "Upload the required documents, including photograph, signature, thumb impression, and handwritten declaration.",
+        "Pay the application fee using the available online payment methods.",
+        "Submit the form and keep a copy of the application for future reference."
+      ]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "How to Prepare for Government Exams: A Complete Guide",
+      "author": "Rahul Sharma",
+      "shortDescription": "This guide provides strategies and tips to crack various government exams, including time management and study materials.",
+      "content": "Government exams require a strategic approach for preparation. First, understand the exam pattern and syllabus. Prepare a study plan and focus on high-weightage topics. Regular practice with mock tests is crucial for success. In this blog, we provide detailed strategies, including recommended books and resources...",
+      "tags": ["Government Exams", "Preparation Tips", "Study Guide"],
+      "publishedDate": "2024-09-01",
+      "views": 2500,
+      "likes": 400,
+      "comments": [
+        {
+          "username": "ExamPrepGuru",
+          "comment": "Great tips! Mock tests really do make a difference.",
+          "date": "2024-09-02"
+        },
+        {
+          "username": "Riya123",
+          "comment": "Can you suggest books for SSC CGL preparation?",
+          "date": "2024-09-03"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Latest Updates on SSC, UPSC, and Banking Exams",
+      "author": "Priya Singh",
+      "shortDescription": "Stay updated with the latest news and notifications regarding SSC, UPSC, and Banking exams for 2024.",
+      "content": "The year 2024 is packed with various government exams. Here, we provide the latest updates, including notifications, application dates, and exam schedules for SSC, UPSC, and Banking exams. Ensure you stay on top of your preparation by following our weekly updates...",
+      "tags": ["Exam Updates", "SSC", "UPSC", "Banking Exams"],
+      "publishedDate": "2024-09-10",
+      "views": 1800,
+      "likes": 320,
+      "comments": [
+        {
+          "username": "GovtJobAspirant",
+          "comment": "Thanks for compiling this! Really helpful.",
+          "date": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Step-by-Step Guide to Apply for UPSC Exams Online",
+      "author": "Sandeep Kumar",
+      "shortDescription": "A detailed guide on how to fill out the online application form for UPSC exams, including document requirements and payment instructions.",
+      "content": "Applying for the UPSC exams online can be confusing for many. In this guide, we break down the process into simple steps: visit the UPSC official website, register, fill out the application form, upload necessary documents, and make the payment. Follow this guide to ensure a hassle-free application...",
+      "tags": ["UPSC", "Online Application", "How To Guide"],
+      "publishedDate": "2024-08-20",
+      "views": 2200,
+      "likes": 350,
+      "comments": [
+        {
+          "username": "UPSC2024",
+          "comment": "This was really helpful! Thanks for simplifying the process.",
+          "date": "2024-08-21"
+        },
+        {
+          "username": "NehaG",
+          "comment": "Can you also include the list of documents required?",
+          "date": "2024-08-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Top 5 Mistakes to Avoid During Government Exam Preparation",
+      "author": "Anjali Verma",
+      "shortDescription": "Learn about the common mistakes aspirants make while preparing for government exams and how to avoid them for a successful attempt.",
+      "content": "Many aspirants struggle to clear government exams due to common mistakes such as lack of a proper study plan, ignoring mock tests, and not revising regularly. In this post, we discuss these mistakes in detail and provide solutions to help you prepare efficiently...",
+      "tags": ["Exam Preparation", "Mistakes", "Government Exams"],
+      "publishedDate": "2024-09-05",
+      "views": 3000,
+      "likes": 550,
+      "comments": [
+        {
+          "username": "StudyWithMe",
+          "comment": "Absolutely agree! Not taking mock tests was my biggest mistake last year.",
+          "date": "2024-09-06"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "How to Stay Motivated During Exam Preparation",
+      "author": "Amit Patel",
+      "shortDescription": "Struggling to stay motivated while preparing for competitive exams? Here are some effective tips to keep your motivation high.",
+      "content": "Preparing for competitive exams can be a long and stressful journey. To maintain motivation, set achievable goals, take breaks, and reward yourself for small milestones. This blog provides various techniques to stay focused and motivated during your preparation...",
+      "tags": ["Motivation", "Exam Tips", "Competitive Exams"],
+      "publishedDate": "2024-08-15",
+      "views": 2700,
+      "likes": 480,
+      "comments": [
+        {
+          "username": "PositiveVibes",
+          "comment": "These tips really helped me push through my preparation. Thank you!",
+          "date": "2024-08-16"
+        },
+        {
+          "username": "HardWorker",
+          "comment": "Could you suggest some motivational books?",
+          "date": "2024-08-17"
+        }
+      ]
+    }
+  ],
+  "admissionsPosts": [
+    {
+      "id": 1,
+      "instituteName": "Delhi University",
+      "courseName": "Bachelor of Science (B.Sc.) in Computer Science",
+      "admissionStartDate": "2024-07-01",
+      "admissionEndDate": "2024-07-30",
+      "eligibilityCriteria": "Candidates must have completed 10+2 with a minimum of 60% marks in Science stream (Physics, Chemistry, Mathematics).",
+      "applicationProcess": "Online",
+      "applicationFee": {
+        "general": 500,
+        "sc_st_obc": 250
+      },
+      "totalSeats": 120,
+      "documentsRequired": [
+        "10th Marksheet",
+        "12th Marksheet",
+        "Aadhaar Card",
+        "Passport Size Photograph",
+        "Signature"
+      ],
+      "contactInfo": {
+        "email": "admissions@du.ac.in",
+        "phone": "011-12345678"
+      },
+      "howToApply": [
+        "Visit the official website of Delhi University.",
+        "Navigate to the 'Admissions' section and select the course.",
+        "Register with your email ID and mobile number.",
+        "Fill out the application form with your personal, academic, and contact details.",
+        "Upload the required documents in the specified format.",
+        "Pay the application fee through the available payment modes.",
+        "Submit the form and take a printout of the application for future reference."
+      ]
+    },
+    {
+      "id": 2,
+      "instituteName": "Jawaharlal Nehru University (JNU)",
+      "courseName": "Master of Arts (M.A.) in Political Science",
+      "admissionStartDate": "2024-08-01",
+      "admissionEndDate": "2024-08-31",
+      "eligibilityCriteria": "Applicants must hold a Bachelor's degree in any discipline with at least 55% aggregate marks.",
+      "applicationProcess": "Online",
+      "applicationFee": {
+        "general": 400,
+        "sc_st_obc": 200
+      },
+      "totalSeats": 80,
+      "documentsRequired": [
+        "Graduation Marksheet",
+        "Transfer Certificate",
+        "Caste Certificate (if applicable)",
+        "Passport Size Photograph",
+        "Signature"
+      ],
+      "contactInfo": {
+        "email": "maadmissions@jnu.ac.in",
+        "phone": "011-98765432"
+      },
+      "howToApply": [
+        "Go to the JNU official admission portal.",
+        "Select the 'Postgraduate Admissions' option.",
+        "Create a new account using a valid email address and phone number.",
+        "Fill in the application form with accurate details.",
+        "Upload scanned copies of the required documents.",
+        "Pay the application fee using net banking, credit/debit card, or UPI.",
+        "Review your application and submit it.",
+        "Download the confirmation receipt for future reference."
+      ]
+    },
+    {
+      "id": 3,
+      "instituteName": "Indian Institute of Technology (IIT) Bombay",
+      "courseName": "Master of Technology (M.Tech) in Mechanical Engineering",
+      "admissionStartDate": "2024-06-15",
+      "admissionEndDate": "2024-07-15",
+      "eligibilityCriteria": "Candidates must have a B.Tech/B.E. degree in Mechanical Engineering with at least 60% aggregate marks and a valid GATE score.",
+      "applicationProcess": "Online",
+      "applicationFee": {
+        "general": 600,
+        "sc_st_obc": 300
+      },
+      "totalSeats": 60,
+      "documentsRequired": [
+        "B.Tech/B.E. Marksheet",
+        "GATE Score Card",
+        "Caste Certificate (if applicable)",
+        "Passport Size Photograph",
+        "Signature"
+      ],
+      "contactInfo": {
+        "email": "mtechadmissions@iitb.ac.in",
+        "phone": "022-23456789"
+      },
+      "howToApply": [
+        "Visit the IIT Bombay M.Tech admissions page.",
+        "Click on the 'Apply Now' button for the desired course.",
+        "Register with a valid email address and mobile number.",
+        "Log in to the portal and complete the application form.",
+        "Upload all necessary documents in the required format.",
+        "Pay the application fee using online payment methods.",
+        "Submit the application form and take a printout of the acknowledgment receipt."
+      ]
+    }
+  ]
+
+}
